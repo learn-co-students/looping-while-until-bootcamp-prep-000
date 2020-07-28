@@ -5,3 +5,5 @@ def using_while
 	  puts "Wingardium Leviosa"
 	end
 end
+using_while
+puts "Now you're soaring!"
